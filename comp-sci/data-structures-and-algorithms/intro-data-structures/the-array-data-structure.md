@@ -52,7 +52,7 @@ myArray = array('i', [1,2,3])
 //JavaScript
 var myArray = [1,2,'enki'];
 ```
-Or empty arrays of size 3:
+Or create empty arrays of size 3:
 ```
 //Java
 int[] myArray = new int[3];
